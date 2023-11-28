@@ -1,0 +1,14 @@
+C:\Users\Brandon\source\repos\netprojects\FirstclassExercise\bin\Debug\net7.0\FirstclassExercise.exe
+C:\Users\Brandon\source\repos\netprojects\FirstclassExercise\bin\Debug\net7.0\FirstclassExercise.deps.json
+C:\Users\Brandon\source\repos\netprojects\FirstclassExercise\bin\Debug\net7.0\FirstclassExercise.runtimeconfig.json
+C:\Users\Brandon\source\repos\netprojects\FirstclassExercise\bin\Debug\net7.0\FirstclassExercise.dll
+C:\Users\Brandon\source\repos\netprojects\FirstclassExercise\bin\Debug\net7.0\FirstclassExercise.pdb
+C:\Users\Brandon\source\repos\netprojects\FirstclassExercise\obj\Debug\net7.0\FirstclassExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandon\source\repos\netprojects\FirstclassExercise\obj\Debug\net7.0\FirstclassExercise.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\netprojects\FirstclassExercise\obj\Debug\net7.0\FirstclassExercise.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\netprojects\FirstclassExercise\obj\Debug\net7.0\FirstclassExercise.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\netprojects\FirstclassExercise\obj\Debug\net7.0\FirstclassExercise.dll
+C:\Users\Brandon\source\repos\netprojects\FirstclassExercise\obj\Debug\net7.0\refint\FirstclassExercise.dll
+C:\Users\Brandon\source\repos\netprojects\FirstclassExercise\obj\Debug\net7.0\FirstclassExercise.pdb
+C:\Users\Brandon\source\repos\netprojects\FirstclassExercise\obj\Debug\net7.0\FirstclassExercise.genruntimeconfig.cache
+C:\Users\Brandon\source\repos\netprojects\FirstclassExercise\obj\Debug\net7.0\ref\FirstclassExercise.dll
